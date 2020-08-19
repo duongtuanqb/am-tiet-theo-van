@@ -1,4 +1,6 @@
-# amtiet
+# Âm tiết theo vần
+
+[![Build Status](https://travis-ci.org/duongtuanqb/am-tiet-theo-van.svg?branch=master)](https://travis-ci.org/duongtuanqb/am-tiet-theo-van)
 
 ## Project setup
 ```
