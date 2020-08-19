@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/duongtuanqb/am-tiet-theo-van.svg?branch=master)](https://travis-ci.org/duongtuanqb/am-tiet-theo-van)
 
+Danh sách âm tiết:
+http://luom.tv/2015/11/01/danh-sach-am-tiet-tieng-viet-xep-theo-van/
+
 ## Project setup
 ```
 yarn install
